@@ -1,6 +1,6 @@
 # SnapCycle
 
-SnapCycle is an app I and my friends Sion and Sid created in 2020 during the hackathon CruzHacks. It is an app that uses machine learning to detect what type of material an object is made of and if it is recyclable. It was created using Swift v5 and works with iOS 8-14. This app is unmaintained.
+SnapCycle is an app my friends Sion, Sid, and I created in 2020 during the hackathon CruzHacks. It is an app that uses machine learning to detect what type of material an object is made of and if it is recyclable. It was created using Swift v5 and works with iOS 8-14. This app is unmaintained.
 
 ## Getting Started
 
